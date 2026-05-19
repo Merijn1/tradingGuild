@@ -4,4 +4,4 @@
 ## Author: Merijn
 ## Version: 0.1
 
-TradingGuild.lua
+main.lua
